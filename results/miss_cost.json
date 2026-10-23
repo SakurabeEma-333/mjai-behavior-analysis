@@ -1,0 +1,50 @@
+{
+  "decisions": 10585,
+  "error_rate": 0.1962,
+  "miss_quality_mean": 0.8045,
+  "miss_quality_p50": 0.9066,
+  "histogram": [
+    {
+      "lo": 0,
+      "hi": 0.2,
+      "count": 193,
+      "share": 0.0929
+    },
+    {
+      "lo": 0.2,
+      "hi": 0.4,
+      "count": 7,
+      "share": 0.0034
+    },
+    {
+      "lo": 0.4,
+      "hi": 0.6,
+      "count": 40,
+      "share": 0.0193
+    },
+    {
+      "lo": 0.6,
+      "hi": 0.8,
+      "count": 266,
+      "share": 0.1281
+    },
+    {
+      "lo": 0.8,
+      "hi": 0.9,
+      "count": 485,
+      "share": 0.2335
+    },
+    {
+      "lo": 0.9,
+      "hi": 0.95,
+      "count": 455,
+      "share": 0.2191
+    },
+    {
+      "lo": 0.95,
+      "hi": 1.0001,
+      "count": 631,
+      "share": 0.3038
+    }
+  ]
+}
